@@ -1,0 +1,58 @@
+[
+  {
+    "id": "project-one",
+    "name": "Project # 1",
+    "description": "React Js",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-two",
+    "name": "Project # 2",
+    "description": "MVC | Sequelize | Node.js | RESTful API",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-three",
+    "name": "Project #3",
+    "description": "MVC | Express | Sequelize",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-four",
+    "name": "Project # 4",
+    "description": "Express.js",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-five",
+    "name": "Project # 5",
+    "description": "Bootstrap | jQuery | Third-party API",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-six",
+    "name": "Project # 6",
+    "description": "Javascript | Server-side API",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-seven",
+    "name": "Project # 7",
+    "description": "Javascript",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "project-eight",
+    "name": "Project # 8",
+    "description": "Javascript",
+    "pageUrl": "app.herokuapp.com",
+    "githubUrl": "https://github.com/"
+  }
+]
